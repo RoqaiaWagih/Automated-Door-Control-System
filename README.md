@@ -13,6 +13,8 @@ The Automated Door Control System is a project designed to provide automated acc
 - LCD Display
 - Servo Motor
 
+[https://example.com/path/to/video.mp4](https://drive.google.com/file/d/1-SXT0p_A5TTrnp7aM_11Nd6JS7Ne9QAM/view?usp=drive_link))
+
 ## Architecture Layers
 
 ### Application Layer (APP)
